@@ -3,7 +3,7 @@ Web-based online shopping system for browisng a varieties of products and buying
 
 O/S ------- WINDOWS 10
 LOCAL SERVER ----------- TOMCAT 9.0
-DATABASE ------------ MySql
+DATABASE ------------ Oracle
 USER INTERFACE -------------------- HTML, CSS, JAVA SCRIPT
 PROGRAMMING LANGUAGE ----------------- Java Server Page (JSP)
 WRITING ENVIRONMENT ----------------- ECLIPSE 
@@ -12,7 +12,7 @@ To run this -------
 Follow these simple steps 
 Clone the Repository
 
-Import the MySQL Database:
+Import the Oracle Database:
 
 Ensure you have JDBC connectors installed to connect to the database.
 
