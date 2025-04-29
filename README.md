@@ -1,29 +1,16 @@
-# The-Online-Shopping-Store
-Web-based online shopping system for browisng a varieties of products and buying.
+# 🛒 The Online Shopping Store
 
-O/S ------- WINDOWS 10
-LOCAL SERVER ----------- TOMCAT 9.0
-DATABASE ------------ Oracle
-USER INTERFACE -------------------- HTML, CSS, JAVA SCRIPT
-PROGRAMMING LANGUAGE ----------------- Java Server Page (JSP)
-WRITING ENVIRONMENT ----------------- ECLIPSE 
+A web-based online shopping system for browsing a variety of products and purchasing them.
 
-To run this -------
-Follow these simple steps 
-Clone the Repository
+---
 
-Import the Oracle Database:
+## 🖥️ Project Overview
 
-Ensure you have JDBC connectors installed to connect to the database.
+- **Operating System**: Windows 10  
+- **Local Server**: Apache Tomcat 9.0  
+- **Database**: Oracle  
+- **User Interface**: HTML, CSS, JavaScript  
+- **Programming Language**: Java Server Pages (JSP)  
+- **Development Environment**: Eclipse IDE  
 
-Import the provided MySQL database.
-
-Run with Eclipse Runtime Environment:
-
-Open Eclipse.
-
-Run index.html using the Eclipse runtime environment.
-
-Ready to Explore:
-
-Once the setup is complete, you are ready to explore.
+---
